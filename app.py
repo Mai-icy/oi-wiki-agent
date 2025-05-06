@@ -87,7 +87,7 @@ if "messages" not in st.session_state:
 
 avatar_m = {
     "assistant": "🤖",
-    "user": "🧑‍",
+    "user": "🧑",
 }
 
 for msg in st.session_state.messages:
